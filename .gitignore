@@ -9,7 +9,7 @@
 !.gitignore
 !LICENSE
 !README.md
-
+!python implementation/*
 # Ignore build directories
 build/
 bin/
